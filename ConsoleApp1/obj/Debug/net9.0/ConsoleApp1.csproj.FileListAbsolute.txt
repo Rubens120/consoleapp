@@ -1,0 +1,14 @@
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.exe
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.deps.json
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.runtimeconfig.json
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.dll
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\ConsoleApp1.pdb
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.AssemblyInfo.cs
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.dll
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleApp1.dll
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
+C:\ict projects\c#\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
